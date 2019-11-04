@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1bec198-7ef0-4849-8c23-29cd8b2449a9" name="Default Changelist" comment="">
+    <list default="true" id="e80de2a8-a7c7-438b-abdb-f80764fb319c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../546/546.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../549first/549first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../590first/590first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NastiaPlayingComputerGame/NastiaPlayingComputerGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nastiaBuyingALanuch/nastiaBuyingALanuch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TRAINIG2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TRAINIG2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TRAINIG2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TRAINIG2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TRAINIG2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TRAINIG2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../circus/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../circus/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../circus/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../circus/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../circus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../circus/.idea/workspace.xml" afterDir="false" />
@@ -18,23 +22,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="1801289914">
+    <session id="1171156436">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="626" />
+          <entry key="java" value="606" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="626" />
+          <entry key="JAVA" value="606" />
         </counts>
       </usages-collector>
     </session>
@@ -44,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
-              <caret line="20" selection-start-line="7" selection-start-column="7" selection-end-line="20" />
+            <state relative-caret-position="22">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,42 +69,22 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="675" />
-    <option name="y" value="207" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="547" />
+    <option name="y" value="64" />
     <option name="width" value="840" />
     <option name="height" value="1010" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TRAINIG2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TRAINIG2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TRAINIG2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TRAINIG2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571151154117" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,7 +101,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="TRAINIG2" />
+      <module name="548second" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -136,19 +120,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a1bec198-7ef0-4849-8c23-29cd8b2449a9" name="Default Changelist" comment="" />
-      <created>1570528611944</created>
+      <changelist id="e80de2a8-a7c7-438b-abdb-f80764fb319c" name="Default Changelist" comment="" />
+      <created>1571504152622</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570528611944</updated>
+      <updated>1571504152622</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.259901" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18069308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -157,15 +141,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32900944" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39150944" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31367925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985849" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32900944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -184,9 +168,9 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>43</line>
+          <line>27</line>
           <properties />
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -194,8 +178,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="20" selection-start-line="7" selection-start-column="7" selection-end-line="20" />
+        <state relative-caret-position="22">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
